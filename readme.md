@@ -1,1 +1,3 @@
-# Welcome to GitHub
+# Weather Station Project
+
+## Adding Cities
